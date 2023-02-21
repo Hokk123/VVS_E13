@@ -4,8 +4,8 @@
   "description": "e13_itog",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --config webpack.config.js",
+    "prod": "webpack --config webpack.prod.js"
   },
   "repository": {
     "type": "git",
