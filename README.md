@@ -1,15 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to VVS project!
 
 This project has been created using **webpack-cli**, you can now run
 
-```
-npm run build
-```
+1. git clone https://github.com/Hokk123/VVS_E13.git
 
-or
+2. npm i
 
-```
-yarn build
-```
+3. npm run build - for start webpack and make bundle
 
-to bundle your application
+4. npm run start - for start webpack-dev-server in development mode
