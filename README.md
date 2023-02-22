@@ -9,3 +9,5 @@ This project has been created using **webpack-cli**, you can now run
 3. npm run build - for start webpack and make bundle
 
 4. npm run start - for start webpack-dev-server in development mode
+
+5. npx eslint src/index.js - for test linter
