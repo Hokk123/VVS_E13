@@ -1,1 +1,1 @@
-document.write('VVS, Test webpack!!!! VVS');
+console.log("Hello Module 13.7");
